@@ -1,10 +1,10 @@
 # CPTS-PDFs
 
-En este pequeño espacio les comparto mis avances de la ruta Penetration tester de HTB para la certificacion CPTS, al mismo tiempo una hoja de trucos que les ayudara con la certificacion EJPT y seguramente con la EWPT, tambien he cargado unos PDFs adicionales que seguro te vendrán bien :)
+En este pequeño espacio les comparto mis avances de la ruta Penetration tester de HTB para la certificación CPTS, al mismo tiempo una hoja de trucos que les ayudara con la certificación EJPT y seguramente con la EWPT, también he cargado unos PDFs adicionales que seguro te vendrán bien :)
 
 Saludos y no olviden compartir.
 
-PD: recuerden que los PDFs se estaran actualizando, asi que regresa aqui de vez en cuando :P
+PD: recuerden que los PDFs se estarán actualizando, así que regresa aquí de vez en cuando :P
 
 Telegram: https://t.me/Pen7esting
 
