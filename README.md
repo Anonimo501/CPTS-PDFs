@@ -4,6 +4,8 @@ En este pequeño espacio les comparto mis avances de la ruta Penetration tester 
 
 Saludos y no olviden compartir.
 
+PD: recuerden que los PDFs se estaran actualizando, asi que regresa aqui de vez en cuando :P
+
 Telegram: https://t.me/Pen7esting
 
 Youtube: https://www.youtube.com/@Anonimo501
